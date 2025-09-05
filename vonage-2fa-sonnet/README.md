@@ -62,8 +62,8 @@ Phone numbers should be entered as digits only with country code:
 
 - ✅ Correct: `16193278653` (US number)
 - ✅ Correct: `447700900123` (UK number)
-- ❌ Wrong: `+1-619-327-8653`
-- ❌ Wrong: `(619) 327-8653`
+- ❌ Wrong: `+1-234-567-8653`
+- ❌ Wrong: `(234) 567-8653`
 
 ## Debugging
 
