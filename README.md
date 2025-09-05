@@ -1,6 +1,8 @@
 # Vonage 2FA Sonnet - WordPress Plugin
 
 A clean, working implementation of Two-Factor Authentication using Vonage's Verify API for WordPress.
+Hackathon Video:
+https://youtu.be/ugIk3Nr1Sw8?si=4A50FexEPnPxOQYb
 
 ## Features
 
