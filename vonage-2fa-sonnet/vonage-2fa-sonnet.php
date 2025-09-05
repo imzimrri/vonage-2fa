@@ -183,7 +183,7 @@ class Vonage2FASonnet {
         // Validate phone number
         if ($enabled === '1' && !$this->validate_phone_number($phone)) {
             add_action('user_profile_update_errors', function($errors) {
-                $errors->add('vonage_2fa_phone_error', 'Please enter a valid phone number with country code (digits only, e.g., 16193278653)');
+                $errors->add('vonage_2fa_phone_error', 'Please enter a valid phone number with country code (digits only, e.g., 1234567890)');
             });
             return false;
         }
